@@ -35,7 +35,7 @@ ExchangeRate-API for live rates
 Clone the repository:
 
 git clone https://github.com/muhib876069/converter-app.git
-cd converter-app
+
 
 
 Install dependencies:
@@ -63,7 +63,7 @@ Farhan Muhib Monim
 💡 Passionate about creating intelligent, practical, and beautiful web applications.
 📧 Reach me at: fk876069@gmail.com
 ]
-🌐 GitHub: https://github.com/muhib876069
+
 
 ⭐ Support
 
