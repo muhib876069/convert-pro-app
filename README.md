@@ -8,7 +8,7 @@ A beautiful web app for temperature and currency conversion
 
 Convert Pro is a modern, responsive web application built with Flask that lets you convert temperature units and currencies instantly — with real-time exchange rates!
 
-🚀 Features
+# 🚀 Features
 
 🌍 Real-time currency conversion using live exchange rates
 
@@ -20,7 +20,7 @@ Convert Pro is a modern, responsive web application built with Flask that lets y
 
 🔒 Offline fallback rates when API is unavailable
 
-🖥️ Tech Stack
+# 🖥️ Tech Stack
 
 Python (Flask Framework)
 
@@ -30,7 +30,7 @@ Requests API
 
 ExchangeRate-API for live rates
 
-⚙️ Installation & Run Locally
+# ⚙️ Installation & Run Locally
 
 Clone the repository:
 
@@ -48,16 +48,16 @@ Run the app:
 python app.py
 
 
-Visit your app at 👉 http://127.0.0.1:5000
+## Visit your app at 👉 http://127.0.0.1:5000
 
-📸 Preview
+# 📸 Preview
 Feature	Description
 🌡️ Temperature Converter	Convert between Celsius, Fahrenheit, and Kelvin
 💰 Currency Converter	Real-time exchange rates for USD, BDT, INR, and EUR
 🎨 UI	Clean, gradient, mobile-friendly design
 
 
-🧑‍💻 Author
+# 🧑‍💻 Author
 
 Farhan Muhib Monim
 💡 Passionate about creating intelligent, practical, and beautiful web applications.
